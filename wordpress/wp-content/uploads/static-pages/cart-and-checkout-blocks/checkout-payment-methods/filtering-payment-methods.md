@@ -54,7 +54,7 @@ registerPaymentMethodExtensionCallbacks( 'my-hypothetical-extension', {
 } );
 ```
 
-### Callbacks registered for payment methods
+## Callbacks registered for payment methods
 
 Extensions can register only one callback per payment method:
 
