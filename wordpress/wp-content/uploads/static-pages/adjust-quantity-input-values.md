@@ -6,6 +6,10 @@ menu_order: 0
 
 Alright, that was pretty straightforward. Now, let's do it the other way around. Let's imagine that this post editor here is our docs site production. I'm updating the post in the editor and also have the possibility to see how the documentation will look like once published.
 
+> Adding a new doc code block.
+> 
+> 
+
 Set the starting value, maximum value, minimum value, and increment amount for quantity input fields on product pages.
 
 Add this code to your child theme's `functions.php` file or via a plugin that allows custom functions to be added, such as the [Code snippets](https://wordpress.org/plugins/code-snippets/) plugin. Avoid adding custom code directly to your parent theme's `functions.php` file, as this will be wiped entirely when you update the theme.
