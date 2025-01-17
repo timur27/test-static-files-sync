@@ -3,8 +3,6 @@ post_title: Adjust the quantity input values
 tags: code-snippet
 ---
 
-Let's assume this doc just got changed by a PR which we just merged into trunk and thus updated the markdown of the doc.
-
 Set the starting value, maximum value, minimum value, and increment amount for quantity input fields on product pages.
 
 Add this code to your child theme's `functions.php` file or via a plugin that allows custom functions to be added, such as the [Code snippets](https://wordpress.org/plugins/code-snippets/) plugin. Avoid adding custom code directly to your parent theme's `functions.php` file, as this will be wiped entirely when you update the theme.
