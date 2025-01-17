@@ -1,6 +1,6 @@
 ---
 post_date_gmt: "2025-01-17 20:37:23"
-post_title: "Adjust the quantity input values"
+post_title: "New post title"
 menu_order: 0
 ---
 
