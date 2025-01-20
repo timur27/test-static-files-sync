@@ -1,6 +1,6 @@
 ---
-post_title: Add a country
-menu_title: Add a country
+post_title: Adding countries
+menu_title: Adding countries
 tags: code-snippet
 ---
 
